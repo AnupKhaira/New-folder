@@ -21,5 +21,5 @@ print(c2.getage())
 c3 = c1 + c2
 print(c3.getage()) 
 print( c3 > c2)  
-print( c1 < c2) 
-print(c3) 
+print( c1 < c2)
+print( c3)
